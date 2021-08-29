@@ -1,4 +1,8 @@
-### Hi there 👋
+### I'm Taisei Ito
+
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=kuma0128&hide=contribs&count_private=true&show_icons=true&theme=algolia)](https://github.com/kuma0128/)[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuma0128&layout=compact&theme=tokyonight&hide=css)](https://github.com/kuma0128/)
+<!-- ソースコード統計 -->
 
 <!--
 **kuma0128/kuma0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
